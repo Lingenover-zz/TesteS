@@ -1,3 +1,5 @@
 [Arquivo de Testes]
 
 Adicionando Linha 1
+
+Adicionando Linha 2
